@@ -128,7 +128,7 @@ This analysis demonstrates that transmission type, brand positioning, and vehicl
 
 Connect with me here:
 
-🔗 [Email](ibrahimabdulrasaqademola2017@gmail.com)
+🔗 [Email](mailto:ibrahimabdulrasaqademola2017@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-abdulrasaq/)
 
