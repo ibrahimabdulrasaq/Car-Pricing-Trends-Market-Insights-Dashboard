@@ -122,7 +122,7 @@ Automatic vehicles dominate buyer preference across the dataset.
 
 This analysis demonstrates that transmission type, brand positioning, and vehicle age are the primary drivers of used car pricing. Applying these insights enables more informed pricing strategies, optimized inventory decisions, and improved revenue outcomes in the used car market.
 
-🔗 [Click here to interact with the dashboard](https://www.novypro.com/profile_about/1768603691117x499853414232449100?Popup=memberProject&Data=1769707778814x167470364100984030)
+🔗 [Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYyZjA5NzItYzcyYS00NWU3LThiYTAtNGY4YmVhOTdkZWM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=d90021733925c67a68b4)
 
 ## 📬 Contact
 
